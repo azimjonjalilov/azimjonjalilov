@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at Algoritm
 - 🌱 I’m currently learning NodeJS, TypeScript
 - 💬 Ask me about nothing :)
-- 📫 How to reach me: [@azimjonjalilov](https://t.me/azimjonjalilov) on telegram
+- 📫 How to reach me: [@jalilovazimjon](https://t.me/jalilovazimjon) on telegram
 - 😄 Pronouns: Azimjon Jalilov,
 - ⚡️ Fun fact: What is sleep ?
 
