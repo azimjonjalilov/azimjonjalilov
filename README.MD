@@ -1,16 +1,16 @@
 ### 👋 Hi there, I'm Azimjon Jalilov
 
-![Azimjon Jalilov's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimjonjalilov\&show_icons=true\&theme=radical)
-![](https://komarev.com/ghpvc/?username=azimjonjalilov\&color=blue)
-
----
-
 * 💻 I’m a **Frontend Developer**
 * 🔭 Currently working at **Algoritm**
 * 🌱 Learning **Node.js** & **TypeScript**
 * 💬 Ask me about **React**, **Redux Toolkit**, **JavaScript**, and **Frontend Development**
 * 📫 Reach me on Telegram: [@jalilovazimjon](https://t.me/jalilovazimjon)
 * ⚡ Fun fact: *I don’t just write code — I build ideas into reality, one commit at a time.*
+
+---
+
+![Azimjon Jalilov's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimjonjalilov\&show_icons=true\&theme=radical)
+![](https://komarev.com/ghpvc/?username=azimjonjalilov\&color=blue)
 
 ---
 
