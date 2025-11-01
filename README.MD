@@ -1,16 +1,48 @@
-### Hi there 👋
+### 👋 Hi there, I'm Azimjon Jalilov
 
-![Azimjon Jalilov's github stats](https://github-readme-stats.vercel.app/api?username=azimjonjalilov&show_icons=true&theme=default)
+![Azimjon Jalilov's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimjonjalilov\&show_icons=true\&theme=radical)
+![](https://komarev.com/ghpvc/?username=azimjonjalilov\&color=blue)
 
-![](https://komarev.com/ghpvc/?username=azimjonjalilov&color=blue&theme=onedark)
+---
 
-- 🔭 I’m currently working at Algoritm
-- 🌱 I’m currently learning NodeJS, TypeScript
-- 💬 Ask me about nothing :)
-- 📫 How to reach me: [@jalilovazimjon](https://t.me/jalilovazimjon) on telegram
-- 😄 Pronouns: Azimjon Jalilov,
-- ⚡️ Fun fact: What is sleep ?
+* 💻 I’m a **Frontend Developer**
+* 🔭 Currently working at **Algoritm**
+* 🌱 Learning **Node.js** & **TypeScript**
+* 💬 Ask me about **React**, **Redux Toolkit**, **JavaScript**, and **Frontend Development**
+* 📫 Reach me on Telegram: [@jalilovazimjon](https://t.me/jalilovazimjon)
+* ⚡ Fun fact: *I don’t just write code — I build ideas into reality, one commit at a time.*
+
+---
+
+### 🧠 Tech Stack
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=azimjonjalilov\&theme=radical\&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azimjonjalilov\&layout=compact\&theme=radical)
+
+---
+
+### 🌐 Connect with me
+
+<a href="https://t.me/jalilovazimjon" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="mailto:azimjonjalilov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/azimjonjalilov" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/azimjonjalilov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+---
+
+### 🎯 My Goals
+
+* Build scalable and user-friendly web applications
+* Deepen backend knowledge (Node.js, Express)
+* Contribute to open-source projects
+
+---
+
+### 🎵 Bonus
 
 <a href="https://github.com/azamjonbro">
-<!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
+<!-- <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
 </a>
