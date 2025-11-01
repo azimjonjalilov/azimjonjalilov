@@ -41,8 +41,4 @@
 
 ---
 
-### 🎵 Bonus
-
-<a href="https://github.com/azamjonbro">
-<!-- <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
-</a>
+### ⚡ Motivational Quote: Success: step by step.
