@@ -18,7 +18,16 @@
 
 ### 🧠 Tech Stack
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code> <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
 <!--
 ---
