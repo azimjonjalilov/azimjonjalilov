@@ -2,7 +2,7 @@
 
 * 💻 I’m a **Frontend Developer**
 * 🔭 Currently working at **Algoritm**
-* 🌱 Learning **Node.js** & **TypeScript**
+* 🌱 Learning **Node.js**
 * 💬 Ask me about **React**, **Redux Toolkit**, **JavaScript**, and **Frontend Development**
 * 📫 Reach me on Telegram: [@jalilovazimjon](https://t.me/jalilovazimjon)
 * ⚡ Fun fact: *I don’t just write code — I build ideas into reality, one commit at a time.*
