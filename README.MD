@@ -26,6 +26,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"></code>
 <code><img height="25" src="https://cdn.simpleicons.org/nextdotjs/black"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
