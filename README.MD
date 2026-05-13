@@ -8,8 +8,10 @@
 * ⚡ Fun fact: *I don’t just write code — I build ideas into reality, one commit at a time.*
 
 ---
+<!--
 ![Azimjon Jalilov's GitHub stats](https://github-readme-stats.vercel.app/api?username=azimjonjalilov\&show_icons=true\&theme=radical)
 ![](https://komarev.com/ghpvc/?username=azimjonjalilov\&color=blue)
+-->
 ---
 
 
@@ -27,13 +29,11 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
-<!--
 ---
 ### 📊 GitHub Stats & Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=azimjonjalilov\&theme=radical\&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azimjonjalilov\&layout=compact\&theme=radical)
--->
 
 ---
 
